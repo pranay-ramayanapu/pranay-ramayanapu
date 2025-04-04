@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pranay-ramayanapu
 - 👀 I’m interested in cybersecurity & linux
 - 🌱 I’m currently learning computer-science-engineering
-- 💞️ I’m looking to collaborate on DBMS ,DSA projects
-- 📫 My insta is is :pranay__srinivass
+- 💞️ I’m looking to collaborate on Any projects
+- 📫 My insta is is :pranai_ramayanapu
 - 😄 Pronouns: he/him
 
 <!---
